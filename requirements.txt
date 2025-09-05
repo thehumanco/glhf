@@ -1,0 +1,7 @@
+opencv-contrib-python
+projectaria_tools==1.6.0
+numpy
+scipy
+torch==2.5.1
+gdown
+tqdm
